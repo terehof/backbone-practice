@@ -1,0 +1,21 @@
+{
+  "name": "backbone-practice",
+  "homepage": "https://github.com/terehof/backbone-practice",
+  "authors": [
+    "terehov <terehovsergej@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.3"
+  }
+}
